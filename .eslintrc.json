@@ -8,5 +8,8 @@
     },
     "rules": {
         "eol-last": ["error", "always"]
+    },
+    "env": {
+        "jest": true
     }
 }
